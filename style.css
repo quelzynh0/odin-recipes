@@ -1,0 +1,28 @@
+.module {
+    padding: 16px;
+    background: white;
+  }
+  .module h1 {
+    background: #90a4ae;
+    margin: -16px -16px 16px -16px;
+    padding: 16px;
+  }
+  .module :last-child {
+    margin-bottom: 0;
+  }
+
+  .center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  body {
+    background: #ddd;
+    margin: 16px;
+    padding: 16px;
+    max-width: 800px;
+    margin: 32px auto;
+    font-family: "Open Sans", sans-serif;
+  }
